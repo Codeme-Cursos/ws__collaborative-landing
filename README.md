@@ -37,7 +37,7 @@
 2. In small screen input group and picture have to change positions.
 
 
-#Footer
+# Footer
 
 1. Buttons have to be centerd.
 2. When click on button in new tab have to open link to website.
