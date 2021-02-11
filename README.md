@@ -1,3 +1,5 @@
+![alt text](https://github.com/Codeme-Cursos/ws__collaborative-landing/blob/master/src/images/Project.png?raw=true)
+
 # Navbar
 
 1. Logo have to be in the left and links on the right.
