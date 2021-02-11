@@ -1,70 +1,42 @@
-# Getting Started with Create React App
+# Navbar
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+1. Logo have to be in the left and links on the right.
+2. When click on link page have to scroll automatically to the selected section.
+3. Add image to logo on the left.
 
-## Available Scripts
 
-In the project directory, you can run:
+# Banner
 
-### `yarn start`
+1. Add 3 images to banner
+2. Carousel have to scroll automatically or if you pres on arrows.
+3. Add text to every carousel and add functionallity to hover text and change color.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+# Cards
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+1. Add 4 images to card.
+2. In small screen cards have to reverse their position.
+3. Cards have to be the same height.
 
-### `yarn test`
+# Table
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Every row of table have to be different color.
+2. Last column have to be a link to website and open in new tab and have to have same style and when hover link change color.
+3. Last two rows have to have only 2 columns.
 
-### `yarn build`
+# Modal
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. Madal when open have to be centered.
+2. in small screen have to change position with image.
+3. modal button have to be centered.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Form
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. Form have to be centered.
+2. In small screen input group and picture have to change positions.
 
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. Buttons have to be centerd.
+2. When click on button in new tab have to open link to website.
+3. WhatsApp link and email have to directly redirect to user.
